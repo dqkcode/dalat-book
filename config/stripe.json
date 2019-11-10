@@ -1,0 +1,8 @@
+{
+    "secretKey": "sk_test_1gDt6qTBmVEGxvHvvtgg5NZS00FpWSIRnt",
+    "publicKey": "pk_test_BgJyduadtLHYK49GGUxhplbA00ZENY9yht",
+    "stripeCurrency": "VND",
+    "stripeDescription": "Dalat Book payment",
+    "stripeLogoURL": "http://localhost:1111/images/mylogo.png",
+    "stripeWebhookSecret": ""
+}
